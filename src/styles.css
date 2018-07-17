@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+div#cdk-overlay-0 {
+    position: absolute;
+    transform: translate(-20%,35%)!important;
+}
+div#cdk-overlay-1 {
+    position: absolute;
+    transform: translate(-20%,82%)!important;
+}
+div#cdk-overlay-2 {
+    position: absolute;
+    transform: translate(-4%,25%)!important;
+}
+.content-wrapper {
+    position: relative;
+}
+
+
+.mat-option {
+    position: relative;
+}
